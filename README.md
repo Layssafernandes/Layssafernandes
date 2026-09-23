@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=timeGradient&section=header&reversal=false&text=Layssa+Fernandes&textBg=false&fontSize=42&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=timeGradient&section=footer&reversal=false&text=Layssa+Fernandes&textBg=false&fontColor=FFFFFF&fontSize=42&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&pause=1000&color=FFCCF2&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo%28a%29!+%F0%9F%91%8B;Apaixonada+por+criar+softwares+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Sempre+apredendo+algo+novo!+%E2%9C%A8" alt="Typing SVG" /></a>
